@@ -32,6 +32,16 @@ Ruta: ConsoleApplication3/ConsoleApplication3/bin/Debug/ConsoleApplication3.exe
 
 Dentro del codigo del gato está una versión de un gato inteligente que va a aprendiendo.
 
+Los archivos principales del Gato son: 
+LeerArchivo.cs
+Motor.cs
+Program.cs (main)
+
+Los archivos anteriores se encuentran en: ConsoleApplication3/ConsoleApplication3/
+
+De ahí hay archivos que se leen. Estan en la carpeta : ConsoleApplication3/ConsoleApplication3/bin/Debug/
+
+
 Saludos.
 
 
